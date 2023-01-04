@@ -1,0 +1,5 @@
+#!/Users/ocnwaokoro/Documents/__data_science_projects__/basketball_eda/venv/bin/python3.10
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()

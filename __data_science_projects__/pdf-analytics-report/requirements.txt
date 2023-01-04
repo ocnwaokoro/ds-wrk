@@ -1,0 +1,6 @@
+fpdf
+numpy
+plotly
+matplotlib
+pandas
+kaleido

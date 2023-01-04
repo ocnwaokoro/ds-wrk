@@ -1,0 +1,13 @@
+prefix=/Users/ocnwaokoro/Documents/__data_science_projects__/ml trading/venv
+exec_prefix=/Users/ocnwaokoro/Documents/__data_science_projects__/ml trading/venv
+libdir=/Users/ocnwaokoro/Documents/__data_science_projects__/ml trading/venv/lib
+sharedlibdir=/Users/ocnwaokoro/Documents/__data_science_projects__/ml trading/venv/lib
+includedir=/Users/ocnwaokoro/Documents/__data_science_projects__/ml trading/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

@@ -1,0 +1,6 @@
+torch 
+torchvision
+stable-baselines3
+gym-anytrading
+gym
+finta

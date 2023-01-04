@@ -1,0 +1,6 @@
+pandas
+pytube
+datetime
+mplfinance
+git+https://github.com/openai/whisper.git
+--upgrade --no-deps --force-reinstall git+https://github.com/openai/whisper.git

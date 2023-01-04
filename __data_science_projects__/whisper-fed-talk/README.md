@@ -1,0 +1,1 @@
+Program to take news clips & analyze the video data to tell what time it is in the clip & sync it with stock data

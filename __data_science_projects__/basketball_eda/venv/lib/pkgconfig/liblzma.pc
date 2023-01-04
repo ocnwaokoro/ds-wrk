@@ -1,0 +1,19 @@
+#
+# Author: Lasse Collin
+#
+# This file has been put into the public domain.
+# You can do whatever you want with this file.
+#
+
+prefix=/Users/ocnwaokoro/Documents/__data_science_projects__/basketball_eda/venv
+exec_prefix=/Users/ocnwaokoro/Documents/__data_science_projects__/basketball_eda/venv
+libdir=/Users/ocnwaokoro/Documents/__data_science_projects__/basketball_eda/venv/lib
+includedir=/Users/ocnwaokoro/Documents/__data_science_projects__/basketball_eda/venv/include
+
+Name: liblzma
+Description: General purpose data compression library
+URL: https://tukaani.org/xz/
+Version: 5.2.8
+Cflags: -I${includedir}
+Libs: -L${libdir} -llzma
+Libs.private: -pthread -lpthread
